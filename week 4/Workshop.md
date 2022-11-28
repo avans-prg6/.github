@@ -84,6 +84,7 @@ Als het goed is kun je nu het formulier versturen maar gebeurd er nog niks. Cont
 <summary>Bekijk uitwerking</summary>
 
 #### **`FormulierVM.cs`**
+
 ```c#
 [Required]
 [MinLength(2)]
