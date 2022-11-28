@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Hier vind je alle public repo's met uitwerkingen van opdrachten voor de module PRG6.
+Daarnaast vind je hier ook je eige repo voor de eindopdracht als je deze hebt aangemaakt via Github classrooms. 
+
 <!--
 
 **Here are some ideas to get you started:**
